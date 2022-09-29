@@ -1,0 +1,12 @@
+{
+    "name": "olsza/value-objects",
+    "type": "test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Olsza",
+            "email": "olsza@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
